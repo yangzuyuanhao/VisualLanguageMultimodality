@@ -168,7 +168,8 @@
     pts_y = pts_idx // W
     points = stack([pts_x, pts_y], dim=2)  #(B*3, num_pt, 2)
 
-    
+ 3. Data
+  
    
     
     
